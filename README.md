@@ -14,7 +14,7 @@
 ## Secant Method
   In numerical analysis, the secant method is a root-finding algorithm that uses a succession of roots of secant lines to better approximate a root of a function f. 
 
-![Chapter 5 - 13  ve 14  Slaytlar - Nonlinear Equations](https://github.com/aliemirozen/mathematical_methods/assets/115935357/30ceca23-cc09-49c4-be4d-6e2f4452e120)
+![Secant Method Formula](https://github.com/aliemirozen/mathematical_methods/assets/115935357/30ceca23-cc09-49c4-be4d-6e2f4452e120)
 
 ## Golden Section Search
   The golden-section search is a technique for finding an extremum (minimum or maximum) of a function inside a specified interval. For a strictly unimodal function with an extremum inside the interval, it will find that extremum, while for an interval containing multiple extrema (possibly including the interval boundaries), it will converge to one of them. If the only extremum on the interval is on a boundary of the interval, it will converge to that boundary point. The method operates by successively narrowing the range of values on the specified interval, which makes it relatively slow, but very robust.
